@@ -15,7 +15,7 @@
     "downloadjs": "^1.4.7",
     "jquery": "^3.4.1",
     "js-file-download": "^0.4.10",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^13.2.0",
     "vue": "^2.6.11",
     "vue-fontawesome": "0.0.2",
     "vue-google-login": "^2.0.3",
@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-router": "~4.2.0",
-    "@vue/cli-service": "~4.2.0",
+    "@vue/cli-service": "~5.0.8",
     "node-sass": "^4.13.1",
     "vue-plugin-load-script": "^1.2.0",
     "vue-template-compiler": "^2.6.11"
